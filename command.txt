@@ -1,1 +1,8 @@
-This file contains all the important commands.
+This file contains all the basic commands.
+
+ls -1
+ls -lrth 
+
+cd path 
+cd  /d 
+..
